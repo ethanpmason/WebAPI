@@ -1,0 +1,2 @@
+WebAPI is a project created to learn .NET in order to complete a database for the Antsy Project in CMPS 285.
+It is only comprised of a .NET backend utilizing Entity Framework, Identity Framework, and Swagger to check endpoints.
